@@ -1,0 +1,13 @@
+{
+  "structOrder": {
+    "id": 1,
+    "dishes": []
+  },
+  "menu": {
+    "TEA": 15,
+    "APPLE": 30,
+    "POTATO": 100,
+    "BURGER": 250,
+    "CAKE": 300
+  }
+}
